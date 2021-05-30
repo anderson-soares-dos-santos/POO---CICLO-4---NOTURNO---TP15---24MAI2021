@@ -1,0 +1,10 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<hr/><!-- comment -->
+<div align="center">
+ DESENVOLVIDO POR ANDERSON SOARES DOS SANTOS - RA 1290481923017
+</div>
+<div align="center">
+ <b> ADS - FATEC - FACULDADE DE TECNOLOGIA DE PRAIA GRANDE</b> 
+
+</div>
